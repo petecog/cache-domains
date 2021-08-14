@@ -1,2 +1,1 @@
-security.ubuntu.com
-archive.ubuntu.com
+ipv6.download.thinkbroadband.com
