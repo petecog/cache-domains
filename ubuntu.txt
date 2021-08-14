@@ -1,1 +1,2 @@
 security.ubuntu.com
+archive.ubuntu.com
